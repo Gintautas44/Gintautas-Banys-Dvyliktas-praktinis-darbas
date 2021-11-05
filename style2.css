@@ -1,0 +1,22 @@
+body {
+  background-color: khaki;
+  background-image: url(paveiksliukai/komp_kartojasi.jpg);
+  background-position: center;
+  background-repeat: repeat-y;
+}
+
+h1 {
+  font-size: 300%;
+  text-align: left;
+  margin-left: 60px;
+}
+h2 {
+  font-size: 300%;
+  text-align: right;
+  margin-top: 350px;
+  margin-right: 60px;
+}
+
+p {
+  margin-left: 1200px;
+}
